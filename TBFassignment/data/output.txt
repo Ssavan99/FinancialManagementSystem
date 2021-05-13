@@ -1,0 +1,91 @@
+Portfolio Summary Report
+
+===============================================================================================================================
+
+Portfolio       Owner                Manager                    Fees     Commissions   Weighted Risk          Return           Total
+PIC022          Chrik,Balden         Nan,Bellows          $     0.00 $       5062.78          0.2387 $     135007.35 $    1249824.21
+PDA001          Glennis,Elia         Nan,Bellows          $     0.00 $         53.79          0.0000 $       1434.30 $      12346.90
+PDB002          Sunny,Hume           Jillie,Beeckx        $    75.00 $         49.38          0.0000 $       3950.79 $      34009.70
+PSA001          Joy,Iffland          Jillie,Beeckx        $   150.00 $       3081.89         -0.1235 $     246551.29 $    2306609.79
+-------------------------------------------------------------------------
+                                                  Totals: $   225.00 $       8247.84                 $     386943.72 $    3602790.60
+Portfolio Details
+
+================================================================================================================
+
+Portfolio PIC022
+-------------------
+Owner:
+Chrik,Balden
+[]
+2243 East P Street
+Lincoln,NE USA 68515
+Manager:
+Nan,Bellows
+Beneficiary:
+Elia,Glennis
+[gelia3@rambler.ru]
+1502 Troy
+Lynchburg,Virginia United States 24515
+Assets
+Code                           Asset                                        Return Rate       Risk   Annual Return           Value
+CH3820107GAZLFHXL2EEX          Thoughtmix                                         0.13%       0.83 $      13307.47 $     101247.96
+MD211W0O6HHJIO9ONDOCYYBQ       Tambee                                             0.10%       1.44 $      14316.52 $     148577.25
+LU02704JUO6JDTTL4CI5           Ailane                                             0.11%       0.00 $     107383.36 $     999999.00
+                                                                          ------------------------------------
+                                                            Totals:       0.24 $     135007.35 $    1249824.21
+Portfolio PDA001
+-------------------
+Owner:
+Glennis,Elia
+[gelia3@rambler.ru]
+1502 Troy
+Lynchburg,Virginia United States 24515
+Manager:
+Nan,Bellows
+Beneficiary:
+Beeckx,Jillie
+[jbeeckx1@army.mil]
+7 Anzinger
+Washington,District of Columbia United States 20260
+Assets
+Code                           Asset                                        Return Rate       Risk   Annual Return           Value
+FO5628342216244629             Trilia                                             0.12%       0.00 $       1434.30 $      12346.90
+                                                                          ------------------------------------
+                                                            Totals:       0.00 $       1434.30 $      12346.90
+Portfolio PDB002
+-------------------
+Owner:
+Sunny,Hume
+[shume7@china.com.cn]
+75499 Debs
+Portland,Oregon United States 97211
+Manager:
+Jillie,Beeckx
+Beneficiary:
+None
+Assets
+Code                           Asset                                        Return Rate       Risk   Annual Return           Value
+FO5628342216244629             Trilia                                             0.12%       0.00 $       3950.79 $      34009.70
+                                                                          ------------------------------------
+                                                            Totals:       0.00 $       3950.79 $      34009.70
+Portfolio PSA001
+-------------------
+Owner:
+Joy,Iffland
+[jiffland0@java.com]
+63 Iowa
+Harrisburg,Pennsylvania United States 17110
+Manager:
+Jillie,Beeckx
+Beneficiary:
+Hume,Sunny
+[shume7@china.com.cn]
+75499 Debs
+Portland,Oregon United States 97211
+Assets
+Code                           Asset                                        Return Rate       Risk   Annual Return           Value
+LU02704JUO6JDTTL4CI5           Ailane                                             0.11%       0.00 $     212926.09 $    1982857.20
+NO5050466383237                Quimm                                              0.10%      -0.88 $      33625.20 $     323752.59
+                                                                          ------------------------------------
+                                                            Totals:      -0.12 $     246551.29 $    2306609.79

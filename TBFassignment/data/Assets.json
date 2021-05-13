@@ -1,0 +1,53 @@
+{
+"assets": [{
+  "apr": 10.2,
+  "balance": 0.0,
+  "depositReturn": 0.0,
+  "code": "LU02704JUO6JDTTL4CI5",
+  "assetType": "D",
+  "label": "Ailane"
+},
+{
+  "apr": 10.99,
+  "balance": 0.0,
+  "depositReturn": 0.0,
+  "code": "FO5628342216244629",
+  "assetType": "D",
+  "label": "Trilia"
+},
+{
+  "quarterlyDividend": 2.92,
+  "baseRateOfReturn": 7.56,
+  "betaMeasure": 0.83,
+  "stockSymbol": "THM",
+  "sharePrice": 209.19,
+  "noOfShares": 0.0,
+  "stockReturn": 0.0,
+  "code": "CH3820107GAZLFHXL2EEX",
+  "assetType": "S",
+  "label": "Thoughtmix"
+},
+{
+  "quarterlyDividend": 1.98,
+  "baseRateOfReturn": 9.41,
+  "betaMeasure": -0.88,
+  "stockSymbol": "QM",
+  "sharePrice": 811.41,
+  "noOfShares": 0.0,
+  "stockReturn": 0.0,
+  "code": "NO5050466383237",
+  "assetType": "S",
+  "label": "Quimm"
+},
+{
+  "quarterlyDividend": 1112.22,
+  "baseRateOfReturn": 7.39,
+  "baseOmegaMeasure": 0.91,
+  "totalValue": 198103.0,
+  "privateInvestmentReturn": 0.0,
+  "stakesOwned": 0.0,
+  "code": "MD211W0O6HHJIO9ONDOCYYBQ",
+  "assetType": "P",
+  "label": "Tambee"
+}
+]}

@@ -1,0 +1,84 @@
+{
+"Persons": [{
+  "personCode": "FI4897536774356076",
+  "firstName": "Joy",
+  "lastName": "Iffland",
+  "street": "63 Iowa",
+  "city": "Harrisburg",
+  "state": "Pennsylvania",
+  "zip": "17110",
+  "country": "United States",
+  "email": [
+    "jiffland0@java.com"
+  ]
+},
+{
+  "secCode": "sec990",
+  "personCode": "CR6410563482271981544",
+  "firstName": "Jillie",
+  "lastName": "Beeckx",
+  "street": "7 Anzinger",
+  "city": "Washington",
+  "state": "District of Columbia",
+  "zip": "20260",
+  "country": "United States",
+  "email": [
+    "jbeeckx1@army.mil"
+  ]
+},
+{
+  "personCode": "NL16FPFN4699904093",
+  "firstName": "Glennis",
+  "lastName": "Elia",
+  "street": "1502 Troy",
+  "city": "Lynchburg",
+  "state": "Virginia",
+  "zip": "24515",
+  "country": "United States",
+  "email": [
+    "gelia3@rambler.ru"
+  ]
+},
+{
+  "personCode": "ME85356936018586154601",
+  "firstName": "Sunny",
+  "lastName": "Hume",
+  "street": "75499 Debs",
+  "city": "Portland",
+  "state": "Oregon",
+  "zip": "97211",
+  "country": "United States",
+  "email": [
+    "shume7@china.com.cn"
+  ]
+},
+{
+  "brokerType": "E",
+  "secCode": "sec908",
+  "personCode": "FR526188570377WH5LD6ZF6NE22",
+  "firstName": "Nan",
+  "lastName": "Bellows",
+  "street": "38959 Roxbury",
+  "city": "Memphis",
+  "state": "Tennessee",
+  "zip": "38161",
+  "country": "United States",
+  "email": [
+    "nbellows8@devhub.com",
+    "mspeedin9@digg.com"
+  ]
+},
+{
+  "personCode": "ME853522222020444214601",
+  "firstName": "Chrik",
+  "lastName": "Balden",
+  "street": "2243 East P Street",
+  "city": "Lincoln",
+  "state": "NE",
+  "zip": "68515",
+  "country": "USA",
+  "email": [
+    ""
+  ]
+}
+]}

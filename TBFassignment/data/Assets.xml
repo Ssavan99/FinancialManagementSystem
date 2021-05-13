@@ -1,0 +1,53 @@
+<?xml version = "1.0" ?>
+<assets><com.tbf.Deposit>
+  <code>LU02704JUO6JDTTL4CI5</code>
+  <assetType>D</assetType>
+  <label>Ailane</label>
+  <apr>10.2</apr>
+  <balance>0.0</balance>
+  <depositReturn>0.0</depositReturn>
+</com.tbf.Deposit>
+<com.tbf.Deposit>
+  <code>FO5628342216244629</code>
+  <assetType>D</assetType>
+  <label>Trilia</label>
+  <apr>10.99</apr>
+  <balance>0.0</balance>
+  <depositReturn>0.0</depositReturn>
+</com.tbf.Deposit>
+<com.tbf.Stock>
+  <code>CH3820107GAZLFHXL2EEX</code>
+  <assetType>S</assetType>
+  <label>Thoughtmix</label>
+  <quarterlyDividend>2.92</quarterlyDividend>
+  <baseRateOfReturn>7.56</baseRateOfReturn>
+  <betaMeasure>0.83</betaMeasure>
+  <stockSymbol>THM</stockSymbol>
+  <sharePrice>209.19</sharePrice>
+  <noOfShares>0.0</noOfShares>
+  <stockReturn>0.0</stockReturn>
+</com.tbf.Stock>
+<com.tbf.Stock>
+  <code>NO5050466383237</code>
+  <assetType>S</assetType>
+  <label>Quimm</label>
+  <quarterlyDividend>1.98</quarterlyDividend>
+  <baseRateOfReturn>9.41</baseRateOfReturn>
+  <betaMeasure>-0.88</betaMeasure>
+  <stockSymbol>QM</stockSymbol>
+  <sharePrice>811.41</sharePrice>
+  <noOfShares>0.0</noOfShares>
+  <stockReturn>0.0</stockReturn>
+</com.tbf.Stock>
+<com.tbf.PrivateInvestment>
+  <code>MD211W0O6HHJIO9ONDOCYYBQ</code>
+  <assetType>P</assetType>
+  <label>Tambee</label>
+  <quarterlyDividend>1112.22</quarterlyDividend>
+  <baseRateOfReturn>7.39</baseRateOfReturn>
+  <baseOmegaMeasure>0.91</baseOmegaMeasure>
+  <totalValue>198103.0</totalValue>
+  <privateInvestmentReturn>0.0</privateInvestmentReturn>
+  <stakesOwned>0.0</stakesOwned>
+</com.tbf.PrivateInvestment>
+</assets>
